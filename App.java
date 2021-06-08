@@ -34,7 +34,7 @@ import java.io.File;
 public class App {
 	public static  void main(String args[]){
 		App o = new App();
-/*
+
 	
 		 String file = "P://Downloads/Ludo.csv";
 		List<Document> documents = new ArrayList<Document>();
@@ -152,7 +152,7 @@ public class App {
 								catch (Exception e){
 			e.printStackTrace();
 		}
-	*/
+	
 	//Calling awt class for output screen
 		text ob = new text();
 	
